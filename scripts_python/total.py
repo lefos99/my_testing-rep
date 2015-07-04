@@ -1,3 +1,5 @@
+#Author:Eleftherios Mylonakis
+
 import alsaaudio, wave, numpy
 import speech_recognition as sr
 import time
